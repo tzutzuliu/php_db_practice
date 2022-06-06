@@ -1,5 +1,5 @@
 <?php
-//檢查帳密是否正確
+//檢查帳密是否正確,使用post
 include "connect.php";
 $acc=$_POST['acc'];
 
